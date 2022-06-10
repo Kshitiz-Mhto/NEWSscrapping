@@ -6,10 +6,10 @@
   - includes Java EE
    
 ## 2.build the project using maven:
-  -mvn build -> which will perform all the necessary step defined in its build cycle.
+  - mvn build -> which will perform all the necessary step defined in its build cycle.
   
 ## 3.simply run the project 
-  -using IDE
+  - using IDE
   
 ## 4.For testing link for e-Kantipur website:
   - `https://ekantipur.com`
