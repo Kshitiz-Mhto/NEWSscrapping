@@ -1,7 +1,7 @@
 body{
 	margin: 0px;
 	padding: 0px;
-        background-image: url("./banner.jpg");
+        background-image: linear-gradient(to bottom right,#725A38, #1F12A4);
 }
 
 div{
