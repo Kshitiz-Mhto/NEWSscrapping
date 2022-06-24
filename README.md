@@ -9,7 +9,7 @@
   - mvn build -> which will perform all the necessary step defined in its build cycle.
   
 ## 3.simply run the project 
-  - using IDE
+  - using Netbean IDE
   
 ## 4.For testing link for e-Kantipur website:
   - `https://ekantipur.com`
